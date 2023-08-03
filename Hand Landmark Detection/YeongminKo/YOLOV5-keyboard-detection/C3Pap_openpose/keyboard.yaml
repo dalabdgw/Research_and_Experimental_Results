@@ -1,0 +1,5 @@
+names:
+- keyboard
+nc: 1
+train: C:/Users/User/Desktop/repo/Experimental/Hand_Landmark_Detection/YeongminKo/YOLOV5/C3Pap_openpose/keyboard/images/train/
+val: C:/Users/User/Desktop/repo/Experimental/Hand_Landmark_Detection/YeongminKo/YOLOV5/C3Pap_openpose/keyboard/images/val/
