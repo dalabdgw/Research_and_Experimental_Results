@@ -6,3 +6,4 @@
   - The dataset has been reinforced than the experiment conducted on July 19th.
 - 08/09/2023: <a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/Hand-Landmark-Detection%20-%20SSD(0809).pdf">Piano Keyboard Detection for SSD</a>
   - <a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/SSDMobileNet-keyboard-detection/Keyboard_Object_Detection_Model_for_SSD_in_GoogleColab.ipynb">Project link</a>
+- 08/16/2023 ~ 08/18/2023: <a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/comparison_result_2023-08-16/Piano-Keyboard-Detection_YOLOv5_SSD_Comparison.pdf">Evaluation Metric Comparison(YOLOv5, SSD MobileNet)</a>
