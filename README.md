@@ -13,5 +13,5 @@
   
   |YOLOv5 PR curves|SSD MobileNet PR curves|
   |---|---|
-  |![yolov5g](https://github.com/dalabdgw/Experimental_Results/assets/135303032/8786162e-52ce-47a8-b5bf-912801c2565a)|![ssdg](https://github.com/dalabdgw/Experimental_Results/assets/135303032/b23380c6-1a11-4fde-a76a-7c9bd9da3d44)|
+  |![yolov5g](https://github.com/dalabdgw/Experimental_Results/assets/135303032/8786162e-52ce-47a8-b5bf-912801c2565a)|![KakaoTalk_20230821_205017723](https://github.com/dalabdgw/Experimental_Results/assets/135303032/8ca276b7-3b72-4a78-86a0-8724c8b7b1b8)|
   
