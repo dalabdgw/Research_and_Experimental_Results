@@ -1,4 +1,4 @@
-# daily record
+# Daily Research Record - Yeongmin Ko
 - 07/19/2023: <a href="https://github.com/dalabdgw/Experimental_Result/blob/main/Hand%20Landmark%20Detection/YeongminKo/2023_07_19_Hand-Landmark-Detection-Experiments.pdf">Hand Landmark Detection Experiment 1</a>: The accuracy comparison for the middle finger of both hands and left hand
 - 08/03/2023: <a href="https://github.com/dalabdgw/Experimental_Results/tree/main/Hand%20Landmark%20Detection/YeongminKo/YOLOV5-keyboard-detection/C3Pap_openpose">Piano Keyboard Detection using YOLOv5</a>
   - <a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/Piano-Keyboard-Detection(0803).pdf">Read more</a>
@@ -16,3 +16,11 @@
   |---|---|
   |![yolov5g](https://github.com/dalabdgw/Experimental_Results/assets/135303032/8786162e-52ce-47a8-b5bf-912801c2565a)|![KakaoTalk_20230821_205017723](https://github.com/dalabdgw/Experimental_Results/assets/135303032/8ca276b7-3b72-4a78-86a0-8724c8b7b1b8)|
   
+- 08/21/2023 ~ 08/22/2023: I have found some gloves tracking hand to extract skeleton data. - <b><a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/The%20finger%20tracking%20device.pdf">summary</a></b>
+- 08/23/2023: I have found some paper regarding person identification about face recognition or face verification, etc through Google Scholar and I summarized that. - <b><a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Person%20Identification/Yeongmin%20Ko/summary%20on%20Person%20Identification.pdf">summary</a></b>
+- 08/24/2023: I have found open sources regarding face recognition. - <b><a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Person%20Identification/Yeongmin%20Ko/finding%20out%20open%20sources%20about%20Person%20Identification.pdf">summary</a></b>
+- 08/25/2023: I selected a open source named deep face for our research. And then, I made some test to check doing recognition correctly.
+  - <b><a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Person%20Identification/Yeongmin%20Ko/result_test%20face%20recognition%20-%201.pdf">the result of test 1</a></b>
+  - <b><a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Person%20Identification/Yeongmin%20Ko/result_test%20face%20recognition%20-%202.pdf">the result of test 2</a></b>
+  
+  ![image](https://github.com/dalabdgw/Experimental_Results/assets/135303032/dda2c609-46ed-4dae-9fc4-db354ca1ada8)
