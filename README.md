@@ -25,3 +25,5 @@
   - <b><a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Person%20Identification/Yeongmin%20Ko/deepface/Testing2.ipynb">test code</a></b>
   
   ![image](https://github.com/dalabdgw/Experimental_Results/assets/135303032/dda2c609-46ed-4dae-9fc4-db354ca1ada8)
+
+- 08/28/2023: <b><a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/Data%20Capturing%20Environment.pdf">How to capture hand pose data</a></b>
