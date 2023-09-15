@@ -20,7 +20,7 @@
 - 08/21/2023 ~ 08/22/2023: I have found some gloves tracking hand to extract skeleton data. - <b><a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/The%20finger%20tracking%20device.pdf">summary</a></b>
 - 08/28/2023: <b><a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/Data%20Capturing%20Environment.pdf">How to capture hand pose data</a></b>
 - 08/31/2023: <a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/2023_08_31_3D%20hand%20pose%20estimation%20using%20ResNet.pdf">3D hand pose estimation using ResNet</a>
-- 09/11/2023: <a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/2023_09_11_3D%20hand%20pose%20estimation.pdf">3D hand pose estimation</a>
+- 09/11/2023: <a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/2023_09_11_3D%20hand%20pose%20estimation.pdf">The summary how to implement 3D hand pose estimation</a>
 - 09/06/2023 ~ 09/14/2023: <a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/Hand%20Pose%20Estimation%20using%20ResNet-50%20with%20PyTorch/ResNet-50%20Based%20Hand%20Pose%20Estimation.ipynb">3d Hand Pose Estimation based ResNet-50 with PyTorch</a>
   - <a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/Hand%20Pose%20Estimation%20using%20ResNet-50%20with%20PyTorch/ResNet-50%20Based%20Hand%20Pose%20Estimation%20Implementation.pdf">read more</a>
 ### Person Identification Project - Yeongmin Ko
