@@ -23,6 +23,8 @@
 - 09/11/2023: <a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/2023_09_11_3D%20hand%20pose%20estimation.pdf">The summary how to implement 3D hand pose estimation</a>
 - 09/06/2023 ~ 09/14/2023: <a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/Hand%20Pose%20Estimation%20using%20ResNet-50%20with%20PyTorch/ResNet-50%20Based%20Hand%20Pose%20Estimation.ipynb">3d Hand Pose Estimation based ResNet-50 with PyTorch</a>
   - <a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/Hand%20Pose%20Estimation%20using%20ResNet-50%20with%20PyTorch/ResNet-50%20Based%20Hand%20Pose%20Estimation%20Implementation.pdf">read more</a>
+- 09/20/2023: <a href="https://github.com/dalabdgw/Research_and_Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/Algorithms%20extracting%203d%20hand%20skeleton(0920).pdf">Finding out Algorithms extracting 3d hand skeleton</a>
+  
 ### Person Identification Project - Yeongmin Ko
 - 08/23/2023: I have found some paper regarding person identification about face recognition or face verification, etc through Google Scholar and I summarized that. - <b><a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Person%20Identification/Yeongmin%20Ko/summary%20on%20Person%20Identification.pdf">summary</a></b>
 - 08/24/2023: I have found open sources regarding face recognition. - <b><a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Person%20Identification/Yeongmin%20Ko/finding%20out%20open%20sources%20about%20Person%20Identification.pdf">summary</a></b>
