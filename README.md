@@ -28,6 +28,8 @@
 ### Build a dataset of hands playing the piano
 - 10/04/2023: I have found annotation tools. <a href="https://github.com/dalabdgw/Research_and_Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/2023_10_04_Build%20a%20dataset%20of%20hands%20playing%20the%20piano.pdf">read more</a>
 - 10/05/2023: I have found the way build experiment environment. <a href="https://github.com/dalabdgw/Research_and_Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/2023_10_05_Build%20a%20dataset%20of%20hands%20playing%20the%20piano_v2.pdf">read more</a>
+- 10/11/2023: I have found related papers. <a href="https://github.com/dalabdgw/Research_and_Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/2023_10_11_How%20to%20capture%20live%20stream%20with%20multiple%20cameras.pdf">read more</a>
+- 10/16/2023: I proposed data collection environment and data preprocessing method. <a href="https://github.com/dalabdgw/Research_and_Experimental_Results/blob/main/Hand%20Landmark%20Detection/YeongminKo/2023_10_16_Piano%20Performance%20Database.pdf">read more</a>
 
 ### Person Identification Project - Yeongmin Ko
 - 08/23/2023: I have found some paper regarding person identification about face recognition or face verification, etc through Google Scholar and I summarized that. - <b><a href="https://github.com/dalabdgw/Experimental_Results/blob/main/Person%20Identification/Yeongmin%20Ko/summary%20on%20Person%20Identification.pdf">summary</a></b>
