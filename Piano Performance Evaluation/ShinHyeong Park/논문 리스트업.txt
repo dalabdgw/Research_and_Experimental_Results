@@ -1,0 +1,31 @@
+[ 유사 논문 ] : https://arxiv.org/pdf/2101.04884.pdf
+(1). Piano + Computer Vision
+	- Observing Pianist Accuracy and Form with Computer Vision
+		* https://bardiadoosti.github.io/Papers/pianowacv/Piano%20-%20wacv2019.pdf
+
+(2). AI + Piano assessment
+	- Evaluation Strategy of the Piano Performance by the Deep Learning Long Short-Term Memory Network
+		* https://www.hindawi.com/journals/wcmc/2022/6727429/
+	- Audio-Based Piano Performance Evaluation for Beginners With Convolutional Neural Network and Attention Mechanism ( Audio 만 관련 )
+		* https://ieeexplore.ieee.org/document/9361233
+		- https://www.mdpi.com/2076-3417/11/24/11783 ( 이전에 추천드림 )
+	- A ResNet-based Audio-visual Fusion Model for Piano Skill Evaluation
+		* https://www.mdpi.com/2076-3417/13/13/7431 ( RasNet / Multimodal ) 을 다룸
+
+=========================================================================================
+
+(3). 평가 관련 사이트
+	- “Chase-riecken musicianship exams - syllabi & study guides,
+		* https://lvmta.com/musicianship
+	- “G. henle verlag - levels of difficulty (piano),”
+		* https://www.henle.de/us/about-us/levels-of-difficulty-piano
+	- Las vegas music teacher association technic - level 10,”
+		* https://content.web-repository.com/s/02553545902171053/uploads/Images/Technic_Materials_10-0954933.pdf
+		
+(4) generating audio from video performance ( 직접적으로 연관 X, 도움 될 것같음 )
+	- Virtual Piano using Computer Vision
+		* https://arxiv.org/pdf/1910.12539.pdf
+
+(5). Body <-> Piano performance 관련 연구
+	- SKELETON PLAYS PIANO: ONLINE GENERATION OF PIANIST BODY MOVEMENTS FROM MIDI PERFORMANCE ( 이건 전에 봤던 논문 )
+		* https://ismir2018.ircam.fr/doc/pdfs/109_Paper.pdf
