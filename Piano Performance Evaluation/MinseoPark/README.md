@@ -13,7 +13,21 @@ Hi, this is MinseoPark's folder.
 # 미디 시각화 정보
 - 테스트에 사용한 데이터 (hello2.csv, hello3.csv)
 
-| 클래스 이름            | 용도              | 함수 목록           | 그림 예시                                   |
-|-------------------|-----------------|-----------------|-----------------------------------------|
-| MidiVisualization | 미디 -> 엑셀 -> 시각화 | showMidiGraph() | ![showMidiGraph.png](showMidiGraph.png)![img.png](img.png)![img_1.png](img_1.png) |
+| 클래스 이름            | 용도              | 함수 목록                                                              | 그림 예시                                   |
+|-------------------|-----------------|--------------------------------------------------------------------|-----------------------------------------|
+| MidiVisualization | 미디 -> 엑셀 -> 시각화 | showMidiGraph()<br/>showMidiInputGraph()<br/>showMidiTargetGraph() | ![showMidiGraph.png](showMidiGraph.png)![img.png](img.png)![img_1.png](img_1.png) |
 |||
+
+# 미디 알고리즘 시각화 - 초마다, 노트들을 합쳐서 해당 초에 쳐야하는 노트들을 잘 쳤는지 확인해주기.
+
+
+# 데이터 추출 과정
+
+| 순서 | 작업 내용                                                                  |
+|----|------------------------------------------------------------------------|
+| 1  | Cubase 프로그램을 통해 맥북 연주 녹음 후 Midi Export                                 |
+| 2  | ShinHyeong Park/[Mido] MIDI Data Combination V4.ipynb 파일을 통해 csv 파일 추출 |
+| 3  | DataFrame을 통해 확인                                                       |
+
+# test.py
+- 시간에 따라 그래프에 미디 찍기
