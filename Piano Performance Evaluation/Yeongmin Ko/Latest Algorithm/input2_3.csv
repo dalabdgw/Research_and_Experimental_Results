@@ -1,4 +1,4 @@
-Sec,Ticks,msg_type,Channel,Notes,Velocities,Note_Lengths,Tempo,mean_velocity,diff_velocity,Dynamic,accent
+sec,ticks,msg_type,channel,note,velocity,note_lengths,tempo,mean_velocity,diff_velocity,dynamic,accent
 2.85625,2.85625,['note_on'],0.0,[71],[66],2.85625,60.0,66.0,66.0,mp,0
 2.8583333333333334,0.0020833333333333,['note_on'],0.0,[71],[66],0.0020833333333333,60.0,0.0,66.0,mp,0
 3.1625,0.0,"['note_on', 'note_on']",0.0,"[76, 76]","[53, 53]",0.3041666666666666,60.0,-13.0,53.0,p,0
