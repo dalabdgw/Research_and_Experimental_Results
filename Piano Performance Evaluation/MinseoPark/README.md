@@ -31,3 +31,5 @@ Hi, this is MinseoPark's folder.
 
 # test.py
 - 시간에 따라 그래프에 미디 찍기
+
+
